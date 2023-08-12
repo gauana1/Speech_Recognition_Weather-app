@@ -1,0 +1,25 @@
+#title{
+    margin: auto;
+    width: 30%;
+    border: 3px solid teal;
+    text-align: center;
+    padding: 10px;
+    
+}
+#myform{
+    margin:auto;
+    border: 3px solid black;
+    width: 30%;
+    text-align: center;
+}
+#city_temp{
+    margin:auto;
+
+    width: 30%;
+
+    text-align: center;
+}
+body
+{
+    background-color:rgb(85, 255, 255);
+}
